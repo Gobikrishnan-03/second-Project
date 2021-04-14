@@ -1,0 +1,103 @@
+.logo {
+    height: 140px;
+    width: 240px;
+}
+
+ul#menu li {
+    display: inline-block;
+    padding: 12px;
+    font-size: 20px;
+}
+
+ul {
+    padding-top: 70px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+li {
+    display: block;
+}
+
+.h {
+    color: #878787;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.h:hover {
+    color: #ff5e14;
+}
+
+.logo1 {
+    height: 120px;
+    width: 305px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 0px;
+    margin-left: -15px;
+}
+
+.carousel {
+    margin-top: -16px;
+    width: 1349px;
+    margin-left: -120px;
+}
+
+.carousel-item {
+    min-height: 280px;
+}
+
+.heading {
+    text-indent: 35px;
+    font-family: cursive;
+}
+
+.content {
+    text-indent: 5px;
+}
+
+.t1 {
+    text-indent: 30px;
+    margin-left: 40px;
+    margin-right: 10px;
+    font-family: sans-serif;
+}
+
+.subphoto1 {
+    margin-left: 40px;
+}
+
+.subphoto2 {
+    margin-left: 70px;
+}
+
+.copyright-area {
+    background: #202020;
+}
+
+.copyright-text p {
+    margin: 0;
+    font-size: 14px;
+    color: #878787;
+}
+
+.copyright-text p a {
+    color: #ff5e14;
+}
+
+.footer-menu li {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.footer-menu li:hover a {
+    color: #ff5e14;
+}
+
+.footer-menu li a {
+    font-size: 14px;
+    color: #878787;
+}
